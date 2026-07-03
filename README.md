@@ -1,17 +1,17 @@
-﻿# English Reading and Writing
+# English Reading and Writing
 
-Course-related files for Tsinghua University **English Reading and Writing**, Fall 2024.
-
-This repository is a cleaned archive of my course materials, homework-related files, notes, and project files where appropriate. Oversized files, build artifacts, archives, and files with obvious personal information in their filenames are intentionally omitted.
+Coursework and reading/writing materials for **English Reading and Writing**, Fall 2024.
 
 ## Contents
 
-- Course: 英语阅读与写作
-- Term: Fall 2024
-- Visibility: public
+- `course-materials/`: course handouts and practice materials
+- `final-paper/`: final paper drafts and discussion materials
+- `references/`: literature collected for the writing project
+
+Files with obvious personal information in their filenames were intentionally omitted.
 
 ---
 
 # 英语阅读与写作
 
-这是 2024 秋季学期 **英语阅读与写作** 的课程相关文件整理。仓库主要用于个人归档和后续复习；明显包含个人信息的文件名、过大的视频/压缩包、编译产物等没有纳入仓库。
+这是 2024 秋季学期 **英语阅读与写作** 的课程相关文件整理，主要用于个人归档和后续复习。
