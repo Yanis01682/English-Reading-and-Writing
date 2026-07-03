@@ -5,10 +5,10 @@ Coursework and reading/writing materials for **English Reading and Writing**, Fa
 ## Contents
 
 - `course-materials/`: course handouts and practice materials
-- `final-paper/`: final paper drafts and discussion materials
+- `final-paper/`: final paper and presentation materials
 - `references/`: literature collected for the writing project
 
-Files with obvious personal information in their filenames were intentionally omitted.
+Intermediate IMRD drafts and revision comments are intentionally omitted; the final paper is kept with a neutral filename.
 
 ---
 
